@@ -22,3 +22,18 @@ h4 {
 * {
     box-sizing: border-box;
 }
+
+.storyone {
+  background-color: #D3D3D3;
+  padding: 5px;
+}
+
+.head1 {
+  font-size: 30px;
+}
+.byline1 {
+  font-size: 14px;
+  color: gray;
+  text-transform: uppercase;
+  margin-bottom: -10px;
+}
