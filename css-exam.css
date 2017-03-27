@@ -1,4 +1,7 @@
-h1 {
+body {
+  background-color: gray;
+}
+  h1 {
   margin-bottom: -20px;
 }
 
@@ -19,10 +22,6 @@ h4 {
   margin-bottom: -10px;
 }
 
-* {
-    box-sizing: border-box;
-}
-
 .storyone {
   background-color: #D3D3D3;
   padding: 5px;
@@ -38,6 +37,9 @@ h4 {
   margin-bottom: -10px;
 }
 
+* {
+    box-sizing: border-box;
+}
 
 .container {
   max-width: 800px;
@@ -45,10 +47,6 @@ h4 {
   background-color: white;
   padding: 10px;
   overflow: auto;
-}
-
-.whole {
-  background-color: gray;
 }
 
 .left-column {
