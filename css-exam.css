@@ -37,3 +37,14 @@ h4 {
   text-transform: uppercase;
   margin-bottom: -10px;
 }
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 10px;
+}
+
+.whole {
+  background-color: gray;
+}
