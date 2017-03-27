@@ -1,6 +1,4 @@
-body {
-  background-color: gray;
-}
+
   h1 {
   margin-bottom: -20px;
 }
@@ -37,8 +35,13 @@ h4 {
   margin-bottom: -10px;
 }
 
+@media(min-width:500px) {
 * {
     box-sizing: border-box;
+}
+
+body {
+  background-color: gray;
 }
 
 .container {
@@ -59,4 +62,5 @@ h4 {
   max-width: 30%;
   float: right;
   padding: 4px;
+}
 }
