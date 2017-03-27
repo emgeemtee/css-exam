@@ -38,13 +38,27 @@ h4 {
   margin-bottom: -10px;
 }
 
+
 .container {
   max-width: 800px;
   margin: 0 auto;
   background-color: white;
   padding: 10px;
+  overflow: auto;
 }
 
 .whole {
   background-color: gray;
+}
+
+.left-column {
+  max-width: 70%;
+  float: left;
+  padding: 4px;
+}
+
+.right-column {
+  max-width: 30%;
+  float: right;
+  padding: 4px;
 }
